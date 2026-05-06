@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "marca": "BMW",
+    "modelo": "Serie 3",
+    "anio": "2022",
+    "precio": "25.000 €",
+    "imagen": "https://i.ibb.co/DHT5QF2W/1000433548-Photoroom.png",
+    "kilometraje": "42.000 km",
+    "combustible": "Diesel",
+    "transmision": "Automático",
+    "potencia": "190 CV",
+    "summary": "Sedán premium equilibrado y elegante.",
+    "description": "Ideal para quien busca confort, buena respuesta y una presencia muy cuidada."
+  },
+  {
+    "id": 2,
+    "marca": "Audi",
+    "modelo": "A6",
+    "anio": "2021",
+    "precio": "31.500 €",
+    "imagen": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&w=1400&q=80",
+    "kilometraje": "36.500 km",
+    "combustible": "Diesel",
+    "transmision": "Automático",
+    "potencia": "286 CV",
+    "summary": "Sedán ejecutivo cómodo y tecnológico.",
+    "description": "Una opción elegante para uso diario, viajes y cliente profesional."
+  },
+  {
+    "id": 3,
+    "marca": "Mercedes-Benz",
+    "modelo": "GLC 300",
+    "anio": "2023",
+    "precio": "48.900 €",
+    "imagen": "https://images.unsplash.com/photo-1542362567-b07e54358753?auto=format&fit=crop&w=1400&q=80",
+    "kilometraje": "18.900 km",
+    "combustible": "Híbrido",
+    "transmision": "Automático",
+    "potencia": "258 CV",
+    "summary": "SUV moderno con mucha presencia.",
+    "description": "Perfecto para quien prioriza diseño, tecnología y una conducción refinada."
+  },
+  {
+    "id": 4,
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "anio": "2022",
+    "precio": "34.900 €",
+    "imagen": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1400&q=80",
+    "kilometraje": "29.000 km",
+    "combustible": "Eléctrico",
+    "transmision": "Automático",
+    "potencia": "283 CV",
+    "summary": "Eléctrico ágil y muy demandado.",
+    "description": "Una alternativa eficiente con buena autonomía y enfoque tecnológico."
+  },
+  {
+    "id": 5,
+    "marca": "Volvo",
+    "modelo": "XC60",
+    "anio": "2020",
+    "precio": "29.800 €",
+    "imagen": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1400&q=80",
+    "kilometraje": "54.000 km",
+    "combustible": "Gasolina",
+    "transmision": "Automático",
+    "potencia": "250 CV",
+    "summary": "SUV familiar cómodo y seguro.",
+    "description": "Buen equilibrio entre seguridad, espacio interior y confort."
+  }
+]
